@@ -1,3 +1,4 @@
+This is the implementation of the research paper “Addressing Data Imbalance in Hydrological Machine Learning: The Impact of Advanced Sampling Methods on Performance and Interpretability.”
 Implementation should be carried out in sequence. 
 Please note that this project utilizes MATLAB, R, Python, and multiple libraries. 
 Paths have been modified from absolute paths to relative paths, which may result in issues with path reading.
